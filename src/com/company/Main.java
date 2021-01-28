@@ -9,5 +9,13 @@ public class Main {
         FactorX.Sun=1;
         FactorX.Moon=2;
         FactorX.planets=2;
+
+
+        SUN troyo = new SUN();
+        troyo.Heat="56748k";
+        troyo.temperature="347878k";
+        troyo.Radius="99899898km";
+
+        
     }
 }
